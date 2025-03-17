@@ -19,7 +19,11 @@ if (pais === "Colomia") {
     idioma = "Ruso";
 } else if (pais === "India") {
     idioma = "Hindi";
+} else {
+    console.log("No se encontro el idioma");
 }
+
+console.log("El idioma de " + pais + " es " + idioma);
 
 
 
