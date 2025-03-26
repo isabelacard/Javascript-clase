@@ -23,7 +23,7 @@ if (pais === "Colomia") {
     console.log("No se encontro el idioma");
 }
 
-console.log("El idioma de " + pais + " es " + idioma);
+alert("El idioma de " + pais + " es " + idioma);
 
 
 
